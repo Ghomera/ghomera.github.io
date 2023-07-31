@@ -4,7 +4,7 @@ body {
 	color: #ffffff;
 	font-family: arial;
 	font-size: 14px;
-	background: #161514 url('https://steamcdn-a.akamaihd.net/apps/tf2/common/images/comicviewer/main_bg.jpg?v=2') no-repeat;
+	background: #161514 url('https://ghomera.github.io/images/main_bg.jpg') no-repeat;
 	background-position:top center;
 	height: 1100px;
 }
@@ -79,7 +79,7 @@ a:hover {
 }
 
 #instructions {
-	background: url('https://steamcdn-a.akamaihd.net/apps/tf2/common/images/comicviewer/infobar.png') no-repeat;
+	background: url('https://ghomera.github.io/images/infobar.png') no-repeat;
 	width: 488px;
 	height: 72px;
 	margin: 0 auto;
