@@ -9,7 +9,7 @@ html, body, * {
 
 body {
 	background-color:#2e2a28;
-	background-image:url('images/sp_repeat_bg.jpg');
+	background-image:url('https://ghomera.github.io/images/sp_repeat_bg.jpg');
 	background-repeat:repeat-y;
 	background-position:center;
 	margin:0;
@@ -38,7 +38,7 @@ img{
 	min-height:1023px;
 }
 #centerFooter {
-	background-image:url('images/sp_bottom_bg.jpg');
+	background-image:url('https://ghomera.github.io/images/sp_bottom_bg.jpg');
 	background-repeat:no-repeat;
 	background-position:top center;
 	text-align:center;
@@ -91,7 +91,7 @@ img{
 	width:888px;
 	position:relative;
 	padding:0px 48px;
-	background-image:url('images/comics_sub_bg.jpg');
+	background-image:url('https://ghomera.github.io/images/comics_sub_bg.jpg');
 	background-position:top center;
 	background-repeat:no-repeat;
 }
