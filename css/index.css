@@ -86,6 +86,15 @@ img{
 	left:70px;
 	z-index:999;
 }
+
+}
+#logoLink2 {
+	position:absolute;
+	top:30px;
+	left:655px;
+	z-index:999;
+}
+
 #centerColContent {
 	width:888px;
 	position:relative;
