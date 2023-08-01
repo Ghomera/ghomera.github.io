@@ -37,10 +37,10 @@ a:hover {
 #logo {
 	cursor: pointer;
 	position: relative;
-	left: 0px;
-	top: 28px;
-	background: url('https://steamcdn-a.akamaihd.net/apps/tf2/common/images/comicviewer/tf_logo.png') no-repeat;
-	width: 272px;
+	left: -260px;
+	top: 10px;
+	background: url('https://ghomera.github.io/images/trans.gif') no-repeat;
+	width: 230px;
 	height: 70px;
 	float: left;
 
@@ -50,7 +50,7 @@ a:hover {
 }
 
 #logo:hover {
-	background: url('https://steamcdn-a.akamaihd.net/apps/tf2/common/images/comicviewer/tf_logo_over.png') no-repeat;
+	background: url('https://ghomera.github.io/images/trans.gif') no-repeat;
 }
 
 #title {
@@ -100,9 +100,9 @@ a:hover {
 #Comic {
 	cursor: pointer;
 	position: relative;
-	top: 109px;
+	top: 15px;
 	width: 1024px;
-	height: 768px;
+	height: auto;
 	margin: 0 auto;
 	display: none;
 }
